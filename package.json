@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/fire": "^17.1.0",
+    "@ionic/pwa-elements": "^3.3.0",
+    "firebase": "^10.12.0"
+  }
+}
